@@ -1,0 +1,265 @@
+@media only screen and (min-width: 480px) {
+  body {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: "Montserrat", sans-serif;
+  }
+  
+  main img {
+    width: 70%;
+    height: auto;
+  }
+  
+  main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 5em;
+  }
+  
+  main article {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+  }
+  main article h1 {
+    color: crimson;
+  }
+  
+  main h1 {
+    color: #7A7B7B;
+    text-align: center;
+    font-size: 0.5em;
+  }
+  
+  main article p {
+    font-size: 0.3em;
+  }
+  
+  section {
+    display: flex;
+    flex-direction: row;
+    gap: 1em;
+  }
+}
+
+@media only screen and (min-width: 600px) {
+  body {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: "Montserrat", sans-serif;
+  }
+  
+  main img {
+    width: 70%;
+    height: auto;
+  }
+  
+  main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 5em;
+  }
+  
+  main article {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+  }
+  main article h1 {
+    color: crimson;
+  }
+  
+  main h1 {
+    color: #7A7B7B;
+    text-align: center;
+    font-size: 1em;
+  }
+  
+  main article p {
+    font-size: 0.6em;
+  }
+  
+  section {
+    display: flex;
+    flex-direction: row;
+    gap: 1em;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  body {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: "Montserrat", sans-serif;
+  }
+  
+  main img {
+    width: 70%;
+    height: auto;
+  }
+  
+  main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 5em;
+  }
+  
+  main article {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+  }
+  main article h1 {
+    color: crimson;
+  }
+  
+  main h1 {
+    color: #7A7B7B;
+    text-align: center;
+    font-size: 1.5em;
+  }
+  
+  main article p {
+    font-size: 0.9em;
+  }
+  
+  section {
+    display: flex;
+    flex-direction: row;
+    gap: 1em;
+  }
+}
+
+@media only screen and (min-width: 992px) {
+  body {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: "Montserrat", sans-serif;
+  }
+  
+  main img {
+    width: 70%;
+    height: auto;
+  }
+  
+  main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 5em;
+  }
+  
+  main article {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+  }
+  main article h1 {
+    color: crimson;
+  }
+  
+  main h1 {
+    color: #7A7B7B;
+    text-align: center;
+    font-size: 2em;
+  }
+  
+  main article p {
+    font-size: 1.2em;
+  }
+  
+  section {
+    display: flex;
+    flex-direction: row;
+    gap: 1em;
+  }
+}
+
+@media only screen and (min-width: 1382px) {
+  body {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: "Montserrat", sans-serif;
+  }
+  
+  main img {
+    width: 70%;
+    height: auto;
+  }
+  
+  main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 5em;
+  }
+  
+  main article {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+  }
+  main article h1 {
+    color: crimson;
+  }
+
+  main h1 {
+    color: #7A7B7B;
+    text-align: center;
+    font-size: 2.5em;
+  }
+  
+  main article p {
+    font-size: 1.5em;
+  }
+  
+  section {
+    display: flex;
+    flex-direction: row;
+    gap: 1em;
+  }
+}
+
